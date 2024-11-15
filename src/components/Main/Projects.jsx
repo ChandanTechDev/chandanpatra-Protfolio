@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function Projects() {
   return (
-    <div id="projects" className="mt-24">
+    <div id="projects" className="mt-24" style={{display: "none"}}>
       <h1 className="font-semibold text-[20px] text-blue-600 mb-3">
         Projects :{" "}
       </h1>
