@@ -7,7 +7,7 @@ function Hero() {
       <div className="col-span-1  flex flex-col justify-center lg:items-start items-center me-4 mt-9 ">
         <div className="">
           <h1 className=" text-[36px] md:text-[55px] text-center lg:text-start text-[#2d2e32] font-bold">
-            Full Stack (MERN) Developer
+            WordPress Developer
             <LazyLoadImage
               alt="image"
               src="/hand.png" // use normal <img> attributes as props
@@ -17,13 +17,13 @@ function Hero() {
         </div>
 
         <p className="text-[18px] text-center md:text-start mt-">
-          Hi, I'm Tuhin Kapri. I am developing Creative and Interactive web apps
+          Hi, I'm Chandan Patra. I am developing Creative and Interactive web site.
         </p>
         <div className="flex gap-4 mt-3">
-          <Link to="https://github.com/TUHINKAPRI">
+          <Link to="https://github.com/chandandev-cp">
             <img src="github.png" alt="github" className="w-6 h-6" />
           </Link>
-          <Link to="https://www.linkedin.com/in/tuhin-kapri-a94300224">
+          <Link to="https://www.linkedin.com/">
             <img src="linkedin.png" alt="linkedin" className="w-6 h-6" />
           </Link>
         </div>

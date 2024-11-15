@@ -9,19 +9,12 @@ function Technology() {
         </h1>
       </div>
       <div className="flex flex-wrap justify-center gap-6">
+        <img src="wordpress-logo.svg" alt="" className="w-12 h-12 " />
+        <img src="825519.png" alt="" className="w-12 h-12 " />
+        <img src="php-logo.svg" alt="" className="w-12 h-12 " />
         <img src="html.png" alt="" className="w-12 h-12 " />
         <img src="css-3.png" alt=""  className="w-12 h-12 " />
-        <img src="java.png" alt="" className="w-12 h-12 "  />
         <img src="js.png" alt=""  className="w-12 h-12 " />
-        <img src="typescript.png" alt=""  className="w-12 h-12 " />
-        <img src="physics.png" alt=""  className="w-12 h-12 " />
-        <img src="next-js.svg" alt=""  className="w-12 h-12 " />
-        <img src="redux.svg" alt="" className="w-12 h-12 " />
-        <img src="bootstrap.png" alt=""  className="w-12 h-12 " />
-        <img src="tailwind-css.svg" alt="" className="w-12 h-12 "  />
-        <img src="nodejs.svg" alt=""  className="w-12 h-12 " />
-        <img src="mongo.png" alt="" className="w-12 h-12 " />
-        <img src="sql.png" alt="" className="w-12 h-12 " />
         <img src="git.svg" alt="" className="w-12 h-12 " />
       </div>
     </div>

@@ -25,7 +25,7 @@ function Navbar() {
       <div className=" max-w-6xl px-9 mx-auto items-center flex justify-between py-5">
         <div>
           <h2 className="text-xl font-bold cursor-pointer hover:text-blue-600 text-[#2d2e32]">
-            TKapri.dev
+            Cpatra.dev
           </h2>
         </div>
         <div className="md:hidden block">
