@@ -6,7 +6,7 @@ function Education() {
       <h1 className="text-blue-600 my-10 text-[18px] font-semibold">
         Education :{" "}
       </h1>
-      <div className="mt-20" style="display:none;">
+      <div className="mt-20" style={{display: "none"}}>
         <div className="w-full max-w-3xl mx-auto">
           <div className="-my-6">
             <div className="">
