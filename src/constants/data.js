@@ -9,32 +9,32 @@ export const menuLink = [
   },
 ];
 
-// export const projects = [
-//   {
-//     id: 1,
-//     title: "BLOG-VISTA",
-//     description:
-//       "A blog app is a web app that lets users write and publish blog posts. Bloggers use the app to create posts, edit posts, and submit posts for review.",
-//     image:
-//       "https://res.cloudinary.com/dyxt9lvpu/image/upload/v1715529913/c4bmhw0rhkh0gkiu4avl.png",
-//     tech: ["React.js", "Node.js", "Express.js", "Mongodb", "Tailwind css"],
-//     liveLink: "https://splendid-bublanina-8aa0fb.netlify.app",
-//     githubLink: "https://github.com/TUHINKAPRI/Blog-Vista-2",
-//     icon: "blogging.png",
-//   },
-//   {
-//     id: 2,
-//     title: "STUDY-SPHERE",
-//     description:
-//       "A platform for posting courses which are designed as per the Industry demand with full Career Assistance.",
-//     image:
-//       "https://res.cloudinary.com/dyxt9lvpu/image/upload/v1715529829/mycykyys5hs4izr7ycul.png",
-//     tech: ["Next.js", "Node.js", "Express.js", "Mongodb", "Tailwind css"],
-//     liveLink: "https://studysphere11.netlify.app/",
-//     githubLink: "https://github.com/TUHINKAPRI/course-create-app",
-//     icon: "studying.png",
-//   },
-// ];
+export const projects = [
+  {
+    id: 1,
+    title: "BLOG-VISTA",
+    description:
+      "A blog app is a web app that lets users write and publish blog posts. Bloggers use the app to create posts, edit posts, and submit posts for review.",
+    image:
+      "https://res.cloudinary.com/dyxt9lvpu/image/upload/v1715529913/c4bmhw0rhkh0gkiu4avl.png",
+    tech: ["React.js", "Node.js", "Express.js", "Mongodb", "Tailwind css"],
+    liveLink: "https://splendid-bublanina-8aa0fb.netlify.app",
+    githubLink: "https://github.com/TUHINKAPRI/Blog-Vista-2",
+    icon: "blogging.png",
+  },
+  {
+    id: 2,
+    title: "STUDY-SPHERE",
+    description:
+      "A platform for posting courses which are designed as per the Industry demand with full Career Assistance.",
+    image:
+      "https://res.cloudinary.com/dyxt9lvpu/image/upload/v1715529829/mycykyys5hs4izr7ycul.png",
+    tech: ["Next.js", "Node.js", "Express.js", "Mongodb", "Tailwind css"],
+    liveLink: "https://studysphere11.netlify.app/",
+    githubLink: "https://github.com/TUHINKAPRI/course-create-app",
+    icon: "studying.png",
+  },
+];
 
 export const educationData = [
   {
