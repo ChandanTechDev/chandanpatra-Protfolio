@@ -7,7 +7,7 @@ function Hero() {
       <div className="col-span-1  flex flex-col justify-center lg:items-start items-center me-4 mt-9 ">
         <div className="">
           <h1 className=" text-[36px] md:text-[55px] text-center lg:text-start text-[#2d2e32] font-bold">
-            WordPress Developer
+            Web Developer
             <LazyLoadImage
               alt="image"
               src="/hand.png" // use normal <img> attributes as props

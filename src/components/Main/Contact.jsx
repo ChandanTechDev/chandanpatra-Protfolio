@@ -1,7 +1,7 @@
 function Contact() {
   const onButtonClick = () => {
     return (
-      <iframe src="Tuhin Kapri Resume_.pdf" width="600" height="400"></iframe>
+      <iframe src="sample.pdf" width="600" height="400"></iframe>
     );
   };
   return (
@@ -26,7 +26,7 @@ function Contact() {
           <img src="mail.png" alt="" className="w-10 h-10 inline " />
           <div>
             <p className="font-semibold ">Mail</p>
-            <p className="font-semibold mb-2">tuhinkapri2@gmail.com</p>
+            <p className="font-semibold mb-2">chandanpatra144@gmail.com</p>
           </div>
         </div>
         <div className="flex gap-4 items-center">
