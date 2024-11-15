@@ -38,7 +38,7 @@ export const projects = [
 
 export const educationData = [
   {
-    name: "BCA , Bechelar of Computer Application",
+    name: "BCA , Bachelor of Computer Applications",
     institute: "Panskura Banamali College",
     time: "2018-2021",
     marks: "CGPA - 7.9",
