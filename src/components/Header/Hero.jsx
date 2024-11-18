@@ -20,7 +20,7 @@ function Hero() {
           Hi, I'm Chandan Patra. I am developing Creative and Interactive web site.
         </p>
         <div className="flex gap-4 mt-3">
-          <Link to="https://github.com/chandandev-cp">
+          <Link to="https://github.com/chandandev-cp/">
             <img src="github.png" alt="github" className="w-6 h-6" />
           </Link>
           <Link to="https://www.linkedin.com/in/chandan-patra-306940258/">
