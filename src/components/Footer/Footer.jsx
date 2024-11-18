@@ -9,7 +9,7 @@ function Footer() {
       </h1>
       <div>
         <div className="flex items-center  gap-6">
-          <Link to="https://www.linkedin.com/">
+          <Link to="https://www.linkedin.com/in/chandan-patra-306940258/">
             <img src="/linkedin.png" alt="Linkedin" className="w-[40px]" />
           </Link>
           <Link to="https://github.com/chandandev-cp">
