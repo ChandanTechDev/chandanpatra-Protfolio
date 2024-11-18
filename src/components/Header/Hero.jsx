@@ -17,7 +17,7 @@ function Hero() {
         </div>
 
         <p className="text-[18px] text-center md:text-start mt-">
-          Hi, I'm Chandan Patra. I am developing Creative and Interactive web site.
+          Hi, I'm Chandan Patra. I am developing Creative and Interactive website.
         </p>
         <div className="flex gap-4 mt-3">
           <Link to="https://github.com/chandandev-cp/">
