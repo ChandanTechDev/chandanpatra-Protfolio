@@ -12,7 +12,7 @@ function Footer() {
           <Link to="https://www.linkedin.com/in/chandan-patra-306940258/">
             <img src="/linkedin.png" alt="Linkedin" className="w-[40px]" />
           </Link>
-          <Link to="https://github.com/chandandev-cp/">
+          <Link to="https://github.com/ChandanTechDev/">
           
             <img src="/github.png" alt="Linkedin" className="w-[40px]" />
           </Link>
